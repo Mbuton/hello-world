@@ -1,5 +1,5 @@
 # My Bio
-Hello world, My name is Collins and a current student at GeorgeBrown College, School of Computer Technology. I am in my final year in the Computer Programmer Analyst program. I like PHP,Java,JavaScript,C#.I am currently learning Nodejs and also Android Studio to build apps for fun. I am available for junior/entry level Software Developer positions in the industry.
+Hello world, My name is Collins and a current student at GeorgeBrown College, School of Computer Technology. I am in my final year in the Computer Programmer Analyst program. I like PHP,Java,JavaScript,C# and Data Analysis with Python.I am currently learning Nodejs and also Android Studio to build apps for fun. I am available for junior/entry level Software Developer positions in the industry.
 Thanks..
 
 
